@@ -2,8 +2,8 @@ C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\bin\Debug\Tes
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\bin\Debug\TestWinFormApp.exe
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\bin\Debug\TestWinFormApp.pdb
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.csprojResolveAssemblyReference.cache
-C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.Form1.resources
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.Properties.Resources.resources
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.csproj.GenerateResource.Cache
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.exe
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.pdb
+C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.FormMain.resources
