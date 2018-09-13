@@ -19,8 +19,11 @@ namespace TestWinFormApp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            AboutBox myAboutBox = new AboutBox();
             //
             MessageBox.Show("Hello world");
+            myAboutBox.Show();
+
         }
     }
 }

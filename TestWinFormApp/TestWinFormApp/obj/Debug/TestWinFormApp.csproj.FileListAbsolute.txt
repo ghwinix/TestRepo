@@ -7,3 +7,4 @@ C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\Tes
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.exe
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.pdb
 C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.FormMain.resources
+C:\Users\winix\Source\Repos\TestRepo\TestWinFormApp\TestWinFormApp\obj\Debug\TestWinFormApp.AboutBox.resources
